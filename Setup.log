@@ -1,0 +1,201 @@
+Setup Log of: Smith V4.1
+Version: V4.1.0.0
+
+Date: 25-APR-2022 10:08:54
+Operating System: Win10.64  10.0  19041 - x64 Workstation
+Composer Version: 12.0.0.3
+
+WinTempDir: C:\Users\Admin\AppData\Local\Temp
+SourceDir:  C:\Users\Admin\AppData\Local\Temp\SETUP_23408
+
+Execute at: (1) --- Setup Start
+Execute at: (22) --- Before Dialogs
+Show Setup Dialog: Welcome
+Show Setup Dialog: License Agreement
+Show Setup Dialog: Readme
+Execute at: (13) --- Before Destination
+Show Setup Dialog: Choose Destination Location
+Execute at: (14) --- After Destination
+Execute at: (17) --- Before Shortcuts
+Show Setup Dialog: Set Program Shortcuts
+Execute at: (18) --- After Shortcuts
+Show Setup Dialog: Confirm Setup Settings
+Create Target Directory: E: ... TRUE
+Create Auxiliary Directory: C:\Users\Admin\Documents\Smith projects ... TRUE
+Show Setup Dialog: Copying Files
+Execute at: (2) --- Before Copy
+Handle First UnInstall Data
+  Copy File: E:\UnInstall.exe ... OK
+  Copy File: E:\English.lng ... OK
+
+Start Copy Directory
+  (E:)
+  Copy File: E:\DevComponents.DotNetBar2.dll ... OK
+  Copy File: E:\Help V4.1.chm ... OK
+  Copy File: E:\license.txt ... OK
+  Copy File: E:\readme.pdf ... OK
+  Copy File: E:\readme_setup.txt ... OK
+  Copy File: E:\Smith V4.1.application ... OK
+  Copy File: E:\Smith V4.1.exe ... OK
+  Copy File: E:\Smith V4.1.exe.config ... OK
+  Copy File: E:\Smith V4.1.exe.manifest ... OK
+  Copy File: E:\Smith4.ico ... OK
+
+Start Copy Directory
+  (C:\Users\Admin\Documents\Smith projects\Examples)
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example1.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example10.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example11.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example12.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example13-input.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example13-output1.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example13-output2.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example13-output3.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example14-1.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example14-2.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example15.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example16.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example17.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example18.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example2.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example3.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example4.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example5.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example6.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example7.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example8.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Example9.xmlsc ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\Examples\Examples V4.1.pdf ... OK
+
+Start Copy Directory
+  (C:\Users\Admin\Documents\Smith projects\S-parameter)
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\14BFQ196.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\1CFY30.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\1CFY65.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\2_54A1.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\2BF996S.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\2BFR92P.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\5BF199.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\5CF739.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\5P2V05M0.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\6P1V54M0.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\7P1V52M0.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\8p3V05M0.s2p ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\af541432b.s2p ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFG33G.cti ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFG33G.S1P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFG33G.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFG33G_EZNEC.txt ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR181_5V02M0.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR505B.s2p ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR520B.s2p ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR90A.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR90AA.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR90AB.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR90AC.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR90AD.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\Bfr90ae.s2p ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR90AF.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR90AG.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR90AH.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR90AI.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR90AJ.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR90B.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR90D.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR90E.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR90G.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR90H.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR90J.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR90K.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR91AD.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR93AA.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR96SD.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR96SE.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFR96SG.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\BFT25AI.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\CD2V015M.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\gali51.s2p ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\NE52418v1_2-16_2_3.s2p ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\Nga589_1.s2p ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\RL5V02M0.S2P ... OK
+  Copy File: C:\Users\Admin\Documents\Smith projects\S-parameter\Y45V01A4.S2P ... OK
+
+Start Copy Directory
+  (E:\S-parameter)
+  Copy File: E:\S-parameter\14BFQ196.S2P ... OK
+  Copy File: E:\S-parameter\1CFY30.S2P ... OK
+  Copy File: E:\S-parameter\1CFY65.S2P ... OK
+  Copy File: E:\S-parameter\2_54A1.S2P ... OK
+  Copy File: E:\S-parameter\2BF996S.S2P ... OK
+  Copy File: E:\S-parameter\2BFR92P.S2P ... OK
+  Copy File: E:\S-parameter\5BF199.S2P ... OK
+  Copy File: E:\S-parameter\5CF739.S2P ... OK
+  Copy File: E:\S-parameter\5P2V05M0.S2P ... OK
+  Copy File: E:\S-parameter\6P1V54M0.S2P ... OK
+  Copy File: E:\S-parameter\7P1V52M0.S2P ... OK
+  Copy File: E:\S-parameter\8p3V05M0.s2p ... OK
+  Copy File: E:\S-parameter\af541432b.s2p ... OK
+  Copy File: E:\S-parameter\BFG33G.cti ... OK
+  Copy File: E:\S-parameter\BFG33G.S1P ... OK
+  Copy File: E:\S-parameter\BFG33G.S2P ... OK
+  Copy File: E:\S-parameter\BFG33G_EZNEC.txt ... OK
+  Copy File: E:\S-parameter\BFR181_5V02M0.S2P ... OK
+  Copy File: E:\S-parameter\BFR505B.s2p ... OK
+  Copy File: E:\S-parameter\BFR520B.s2p ... OK
+  Copy File: E:\S-parameter\BFR90A.S2P ... OK
+  Copy File: E:\S-parameter\BFR90AA.S2P ... OK
+  Copy File: E:\S-parameter\BFR90AB.S2P ... OK
+  Copy File: E:\S-parameter\BFR90AC.S2P ... OK
+  Copy File: E:\S-parameter\BFR90AD.S2P ... OK
+  Copy File: E:\S-parameter\Bfr90ae.s2p ... OK
+  Copy File: E:\S-parameter\BFR90AF.S2P ... OK
+  Copy File: E:\S-parameter\BFR90AG.S2P ... OK
+  Copy File: E:\S-parameter\BFR90AH.S2P ... OK
+  Copy File: E:\S-parameter\BFR90AI.S2P ... OK
+  Copy File: E:\S-parameter\BFR90AJ.S2P ... OK
+  Copy File: E:\S-parameter\BFR90B.S2P ... OK
+  Copy File: E:\S-parameter\BFR90D.S2P ... OK
+  Copy File: E:\S-parameter\BFR90E.S2P ... OK
+  Copy File: E:\S-parameter\BFR90G.S2P ... OK
+  Copy File: E:\S-parameter\BFR90H.S2P ... OK
+  Copy File: E:\S-parameter\BFR90J.S2P ... OK
+  Copy File: E:\S-parameter\BFR90K.S2P ... OK
+  Copy File: E:\S-parameter\BFR91AD.S2P ... OK
+  Copy File: E:\S-parameter\BFR93AA.S2P ... OK
+  Copy File: E:\S-parameter\BFR96SD.S2P ... OK
+  Copy File: E:\S-parameter\BFR96SE.S2P ... OK
+  Copy File: E:\S-parameter\BFR96SG.S2P ... OK
+  Copy File: E:\S-parameter\BFT25AI.S2P ... OK
+  Copy File: E:\S-parameter\CD2V015M.S2P ... OK
+  Copy File: E:\S-parameter\gali51.s2p ... OK
+  Copy File: E:\S-parameter\NE52418v1_2-16_2_3.s2p ... OK
+  Copy File: E:\S-parameter\Nga589_1.s2p ... OK
+  Copy File: E:\S-parameter\RL5V02M0.S2P ... OK
+  Copy File: E:\S-parameter\Y45V01A4.S2P ... OK
+
+Execute at: (3) --- After Copy
+Registering Components --- Start
+
+Associate: Smith projects
+Associate: S-parameter
+Associate: S-parameter
+Associate: CITI-File
+Create Start/Program shortcut:
+  Smith V4.1\Smith V4.1  (E:\Smith V4.1.exe) ... OK
+Create Desktop shortcut:
+  Smith V4.1 Readme  (E:\readme.pdf) ... OK
+Create Start/Program shortcut:
+  Smith V4.1\Uninstall Smith V4.1  (E:\UnInstall.exe) ... OK
+Create Start Menu shortcut:
+  Smith V4.1  (E:\Smith V4.1.exe) ... OK
+  Smith V4.1  (C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Start Menu\Smith V4.1.lnk)
+Create Desktop shortcut:
+  Smith V4.1  (E:\Smith V4.1.exe) ... OK
+
+Registering Components --- End
+
+Execute at: (23) --- After Reg Components
+Execute at: (19) --- Before Complete
+Show Setup Dialog: Setup Complete
+Execute at: (20) --- After Complete
+Execute at: (4) --- Setup End
